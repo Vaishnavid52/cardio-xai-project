@@ -1,3 +1,5 @@
 dataset_
 cardio_clean.csv
 __pycache__/
+.venv/
+Demo video/
